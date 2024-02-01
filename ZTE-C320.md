@@ -28,8 +28,8 @@ show run interface gpon-onu_x/y/z:a
 ```
 ### Deskripsi Parameter:
 - **x**: Nomor slot pada OLT.
-- **y**: Nomor port pada kartu OLT di slot tersebut.
-- **z**: Nomor kartu OLT.
+- **y**: Nomor port pada card OLT di slot.
+- **z**: Nomor card OLT.
 - **a**: Nomor ONU yang ingin ditampilkan statusnya.
 ### Contoh Penggunaan:
 show run interface gpon-onu_1/1/4:2
