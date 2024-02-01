@@ -1,1 +1,1 @@
-```bash show system-group ```    	(check versi olt)
+```bash show system-group```	             	(untuk cek versi OLT)
